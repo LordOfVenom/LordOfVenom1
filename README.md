@@ -1,12 +1,12 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube- Mahesh Pani-red)](https://www.youtube.com/channel/UCKbE_5yseQ58KNweWWKRj0A)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahesh-pani-615a63246/)](https://www.linkedin.com/in/mahesh-pani-615a63246/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Mahesh Pani-red)](https://www.youtube.com/channel/UCKbE_5yseQ58KNweWWKRj0A)
+[![Linkedin Badge](https://img.shields.io/badge/-Mahesh Pani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahesh-pani-615a63246/)](https://www.linkedin.com/in/mahesh-pani-615a63246/)
 [![Website Badge](https://img.shields.io/badge/WebSite- Mahesh-green)](https://www.mahesh)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Mahesh-yellow)](https://stackoverflow.com/users/edit/19630354)
 
 I'm
-Full Stack Solution Architect
+a learner at Edureka learning various skills .
 The linking between different problems, handling and analysing these probelms through coding has always influenced me to learn more deep about coding.  
 Currently I am a PhD scholar at University of Hyderabad and I am been very lucky that I got a chance to learn about web development and web architect as being an intern at Edureka. I am now learning many skills and at beginner level which include back-end development using open source technologies (NodeJs, Python), design (, front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript), Server Administrator,database
 
